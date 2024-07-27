@@ -1,6 +1,6 @@
-# example-1 (example-1)
+# Quasar CLI Starter App
 
-example-1
+Quasar CLI, Vite, Vue, Pinia, Vue-Router including auth-guarded routes
 
 ## Install the dependencies
 ```bash
