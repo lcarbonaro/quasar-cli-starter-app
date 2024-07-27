@@ -1,0 +1,9 @@
+// app global css in SCSS form
+a:link,
+a:visited {
+    color: #fff;
+}
+
+a:hover, a:active {
+    color: var(--q-primary);
+}
